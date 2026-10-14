@@ -1,9 +1,7 @@
 # Hi, I'm Vaibhav Jaiswal👋
-🎓 IIT Madras Graduate & Post Graduate
+🎓 BS&MS in Biological Sciences, IIT Madras
 💻 Bioinformatics Engineer | Multi-Omics Analysis | ML for Healthcare  
-🚀 Focused on scalable multi-omics pipelines, reproducibility, and ML-driven biological insights  
-🔬 Interested in multi-omics, machine learning, and biological data integration
-🧠 Exploring graph-based analysis using Neo4j for biological network insights
+🧬  Focused on RNA-seq, transcriptomics, reproducible bioinformatics workflows, and ML for biological data  
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -19,57 +17,47 @@
 ---
 
 ## About Me
-I design and deploy scalable, reproducible bioinformatics pipelines for multi-omics data analysis, with hands-on experience in RNA-seq and variant calling workflows. Strong focus on reproducibility using workflow automation (Snakemake) and containerization (Docker).
+I am a Bioinformatics Engineer with hands-on experience in RNA-seq and transcriptomics analysis, workflow automation, and biological data integration.
+
+My experience includes developing reproducible analysis workflows using Python, R, Bash, and Snakemake, along with working with genomic and clinical datasets using Neo4j and Azure.
+
+Currently, I am expanding my skills in machine learning and computational methods for biological data.
 
 ## Skills
 - Programming: Python, R, Bash
-- Libraries/ML: Pandas, NumPy, Scikit-learn
-- Bioinformatics: RNA-seq, Differential Expression, GSVA
-- Tools: STAR, FeatureCounts, Snakemake, Docker
-- Databases: Neo4j, KEGG, TCGA
-- Cloud/OS: Azure, Ubuntu
+- Bioinformatics: RNA-seq, Transcriptomics, Differential Expression, Pathway Analysis
+- Analysis: DESeq2, GSVA, GSEA
+- Tools: STAR, HISAT2, FeatureCounts, Snakemake, Docker
+- Data Science: pandas, NumPy, scikit-learn, Matplotlib
+- Databases: Neo4j
+- Data Sources: GEO, TCGA, KEGG, Reactome
+- Cloud / OS: Azure, Ubuntu, Windows 
 
-## Data Sources & Databases
-- Pathway: KEGG, Reactome  
-- Expression: GEO, TCGA  
-- Graph DB: Neo4j 
+## Featured Projects
+### 🧬 Transcriptomics Analysis
 
-## Projects
-### Breast Cancer Multi-Omics Biomarker Discovery
-- Integrated RNA-seq data from GEO and TCGA (~500+ samples)
-- Identified 150+ differentially expressed genes (FDR < 0.05)
-- Performed pathway enrichment using KEGG / Reactome
-- Discovered biomarkers associated with tumor progression
-- Tools: Python, DESeq2, KEGG, Snakemake  
-🔗 [View Project](#)
+End-to-end RNA-seq analysis workflow covering:
 
-### Variant Calling Pipeline
-- Built end-to-end pipeline using BWA + GATK  
-- Processed whole genome sequencing data  
-- Automated workflow using Snakemake  
-- Tools: BWA, GATK, SAMtools, Snakemake  
-🔗  
+Raw RNA-seq Data → Quality Control → Trimming → Alignment → Quantification → Differential Expression → Pathway Analysis
 
-## Highlighted Pipelines
-⚙️ RNA-seq Pipeline  
-fastq → STAR → FeatureCounts → DESeq2  
-(Snakemake + Docker)
+Tools: FastQC, MultiQC, STAR, FeatureCounts, DESeq2, GSVA, GSEA, Snakemake
 
-⚙️ Variant Calling Pipeline  
-fastq → BWA → SAMtools → GATK  
-(Snakemake)
+🔗 [View Bioinformatics Projects]((https://github.com/VaibhavJaiswal231/Bioinformatics_project/tree/main/Transcriptomics_analysis))
 
-## Research Interest
-- Graph-based multi-omics integration using Neo4j
-- Network-driven biomarker discovery
-- Integrating graph databases (Neo4j) with multi-omics pipelines for scalable biological insights
-  
-## What I’m Working On
-🔭 Currently working on: Multi-omics integration using ML
-🌱 Learning: Deep learning for genomics, LLMs
+## Current Learning
+
+- Machine Learning for Healthcare
+- Deep Learning for Genomics
+- Multi-omics Data Integration
+- Reproducible Bioinformatics Workflows
+- Graph-based Biological Data Analysis
 
 ## Open to Opportunities
-💼 Seeking roles in Bioinformatics / Computational Biology / AI in Healthcare
+
+- 💼 Bioinformatics Engineer
+- 🧬 Bioinformatician / Computational Biologist
+- 📊 Bioinformatics Data Analyst
+- 🤖 AI/ML for Healthcare & Biology
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/vaibhav-jaiswal-31488b128
