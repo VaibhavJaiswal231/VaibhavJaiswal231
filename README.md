@@ -10,11 +10,6 @@
   <img src="https://img.shields.io/badge/Snakemake-Workflow-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VaibhavJaiswal231&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavJaiswal231&layout=compact)
-![Profile Views](https://komarev.com/ghpvc/?username=VaibhavJaiswal231&style=for-the-badge)
-
----
 
 ## About Me
 I am a Bioinformatics Engineer with hands-on experience in RNA-seq and transcriptomics analysis, workflow automation, and biological data integration.
@@ -42,7 +37,7 @@ Raw RNA-seq Data → Quality Control → Trimming → Alignment → Quantificati
 
 Tools: FastQC, MultiQC, STAR, FeatureCounts, DESeq2, GSVA, GSEA, Snakemake
 
-🔗 [View Bioinformatics Projects]((https://github.com/VaibhavJaiswal231/Bioinformatics_project/tree/main/Transcriptomics_analysis))
+🔗 [View Bioinformatics Projects](https://github.com/VaibhavJaiswal231/Bioinformatics_project/tree/main/Transcriptomics_analysis)
 
 ## Current Learning
 
